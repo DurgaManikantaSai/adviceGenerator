@@ -1,0 +1,14 @@
+How to create the class components
+
+class <component> extends React.Component {
+    render(){
+
+    }
+}
+
+Life cycle methods of React component
+
+render()
+ComponentDidMount() => This executes while the rendering of the component.
+ComponentDidUpdate()
+ComponentWillUnmount()
